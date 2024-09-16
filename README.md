@@ -18,7 +18,7 @@ Este projeto faz parte do desafio Lab Natty or Not da Digital Innovation One, on
 
 **2. Criação de Texto:** Com o uso do ChatGPT, gerei descrições detalhadas e criativas para acompanhar as imagens. A ideia foi criar textos que complementassem visualmente o design gerado, além de fornecer uma narrativa ao conteúdo.
 
-**3. Geração de Imagens:** Utilizando o DALL·E, gerei uma série de imagens inspiradas em paisagens naturais, arquitetura minimalista e cores suaves que evocam um estilo "aesthetic".
+**3. Geração de Imagens:** Utilizando o DALL·E, gerei imagens inspiradas em paisagens naturais, arquitetura minimalista e cores suaves que evocam um estilo "aesthetic".
 
 **4. Integração e Documentação:** Todas as imagens e textos foram organizados no repositório GitHub, com a documentação clara no arquivo README.md.
 
