@@ -6,7 +6,7 @@ Este projeto faz parte do desafio Lab Natty or Not da Digital Innovation One, on
 
 ## 🤖 **Tecnologias Utilizadas**
 
-**[ChatGPT](https://chatgpt.com/):** Utilizado para gerar textos criativos, descritivos e autênticos que transmitem um estilo visual "aesthetic".
+**[Microsoft Copilot](https://copilot.microsoft.com/):** Utilizado para gerar textos criativos, descritivos e autênticos que transmitem um estilo visual "aesthetic".
 
 **[DALL·E](https://app.ai-pro.org/dream-photo?upid=a7bb9zYAxODegKRxTMqE):** Usado para criar imagens realistas e artísticas, simulando produções visuais naturais.
 
@@ -16,7 +16,7 @@ Este projeto faz parte do desafio Lab Natty or Not da Digital Innovation One, on
 
 **1. Planejamento:** Primeiramente, escolhi um tema focado em **arte minimalista** e **elementos visuais suaves** para criar o estilo "aesthetic" do projeto.
 
-**2. Criação de Texto:** Com o uso do ChatGPT, gerei descrições detalhadas e criativas para acompanhar as imagens. A ideia foi criar textos que complementassem visualmente o design gerado, além de fornecer uma narrativa ao conteúdo.
+**2. Criação de Texto:** Com o uso do Microsoft Copilot, gerei descrições detalhadas e criativas para acompanhar as imagens. A ideia foi criar textos que complementassem visualmente o design gerado, além de fornecer uma narrativa ao conteúdo.
 
 **3. Geração de Imagens:** Utilizando o DALL·E, gerei imagens inspiradas em paisagens naturais, arquitetura minimalista e cores suaves que evocam um estilo "aesthetic".
 
