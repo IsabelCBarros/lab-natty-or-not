@@ -20,7 +20,7 @@ Este projeto faz parte do desafio Lab Natty or Not da Digital Innovation One, on
 
 **3. Geração de Imagens:** Utilizando o DALL·E, gerei imagens inspiradas em paisagens naturais, arquitetura minimalista e cores suaves que evocam um estilo "aesthetic".
 
-**4. Integração e Documentação:** Todas as imagens e textos foram organizados no repositório GitHub, com a documentação clara no arquivo README.md.
+**4. Integração e Documentação:** Todas as imagens e textos foram organizados no repositório GitHub.
 
 ## 🚀 **Resultados**
 
